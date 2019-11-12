@@ -4,6 +4,15 @@ A Catalogue of Seminal Papers in Computer Science
 
 # 1930s
 
+
+# A Set of Postulates for the Foundation of Logic ([I](https://www.jstor.org/stable/1968337), [II](https://www.jstor.org/stable/1968702?seq=1#page_scan_tab_contents))
+## Alonzo Church (1932,1933)
+### 20 pages
+
+![Church's Portrait](https://web.archive.org/web/20160611031650if_/http://www.computerhope.com/people/pictures/alonzo_church.jpg)
+
+Initial papers in which Alonzo Church introduces Lambda Calculus.
+
 # [On computable numbers with an application to the Entscheidungsproblem](https://web.archive.org/web/20191015224642/https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 ## Alan Turing (1936)
 ### 36 pages
