@@ -27,10 +27,16 @@ In this paper, Alan Turing presents his proof for the assertion that some decisi
 # 1960s
 
 # [The Mechanical Evaluation of Expressions](https://web.archive.org/web/20161126162517/https://www.cs.cmu.edu/~crary/819-f09/Landin64.pdf)
+## Peter Landin (1964)
+### 13 Pages
 
 ![Peter Landin's Portrait](https://web.archive.org/web/20190514133100if_/https://upload.wikimedia.org/wikipedia/en/f/f9/Peter_Landin.png)
 
 ![Cover of Turing's Paper](./the-mechanical-evaluation-of-expressions.png)
 
 One of the paper's that gave birth to denotational semantics (the method of analyzing programming constructs with the help of Lambda Calculus)
+
+
+* Long Lists
+** List by Benjamin Pierce: https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml
 
