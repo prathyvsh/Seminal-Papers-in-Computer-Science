@@ -34,8 +34,7 @@ In this paper, Alan Turing presents his proof for the assertion that some decisi
 
 [[Cover of Turing's Paper][./the-mechanical-evaluation-of-expressions.png]]
 
-One of the papers that gave birth to denotational semantics (the method of analyzing programming constructs with the help of Lambda Calculus)
-
+One of the papers that gave birth to denotational semantics (the method of analyzing programming constructs with the help of Lambda Calculus). The highly influential SECD machine was first introduced in this paper.
 
 * Long Lists
 ** [[https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml][List by Benjamin Pierce]]
